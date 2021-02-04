@@ -6,6 +6,7 @@
 // @author       Odo [2180136]
 // @match        https://www.torn.com/loader*
 // @require http://code.jquery.com/jquery-3.4.1.min.js
+// @updateURL https://github.com/OdoTheWise/tornassistme/blob/master/Torn_Assist_Me.user.js
 // @grant    GM.getValue
 // @grant    GM.setValue
 // @grant    GM.xmlHttpRequest
